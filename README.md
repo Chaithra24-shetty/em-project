@@ -54,3 +54,6 @@ em-project/
 
 ## Author
 - Chaithra24-shetty
+## Screenshot
+
+![Employee API](assets/screenshot.png)
