@@ -57,3 +57,17 @@ em-project/
 ## Screenshot
 
 ![Employee API](assets/screenshot.png)
+## API Usage Examples
+
+### Add Employee (POST)
+POST http://localhost:8080/api/employees  
+Body (JSON):
+```json
+{
+  "id": 1,
+  "name": "Chaithra",
+  "role": "Java Developer",
+  "linkedIn": "https://linkedin.com/in/chaithra",
+  "resume": "resume.pdf"
+}
+
